@@ -7,4 +7,6 @@ Abaixo segue o link para o notebook no  Google Colab que está compartilhado.
 
 https://drive.google.com/file/d/1UuWlXlC5HUDDIc4gakB1920SF5fgUrHh/view?usp=sharing
 
+IMPORTANTE: os arquivos do dataset devem ser carregados na pasta padrão do notebook para que possam ser lidos.
+
 Anexados à esse projeto está uma cópia do dataset utilizado e também o documento com a descrição do mesmo.
